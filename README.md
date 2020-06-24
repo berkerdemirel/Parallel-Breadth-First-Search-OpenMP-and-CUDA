@@ -1,4 +1,4 @@
-# Direction-Optimizing-BFS
+# Parallel Breadth First Search
 
 Implementation of Direction Optimizing BFS in both OpenMP and CUDA (C++)
 
