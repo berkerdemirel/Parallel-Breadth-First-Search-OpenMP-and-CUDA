@@ -33,8 +33,12 @@ According to experimental results, use QBFS when the average degree is small, ot
 ## References
 
 [1] The Matrix Market File Format. http://networkrepository.com/mtx-matrix-market-format.html.
+
 [2] Scott Beamer, Krste Asanovic, and David Patterson. Direction-optimizing breadth-first search. In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, SC ’12, pages 12:1–12:10, Los Alamitos, CA, USA, 2012. IEEE Computer Society Press.
+
 [3] Duane Merrill, Michael Garland, and Andrew Grimshaw. Scalable gpu graph traversal. In Proceedings of the 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP ’12, pages 117–128, New York, NY, USA, 2012. ACM.
+
 [4] Julian Shun and Guy E. Blelloch. Ligra: A lightweight graph processing framework for shared memory. SIGPLAN Not., 48(8):135–146, February 2013.
+
 [5] Yangzihao Wang, Andrew Davidson, Yuechao Pan, YuduoWu, Andy Riffel, and John D. Owens. Gunrock: A high-performance graph processing library on the gpu. SIGPLAN Not., 51(8):11:1–11:12, February 2016.
 
